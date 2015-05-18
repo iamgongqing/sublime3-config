@@ -1,0 +1,34 @@
+# frozen sublime3 configuration
+------
+##Preferences
+- font-face
+- font-size
+- highlight_line
+- default_line_ending
+- show_encoding
+- show_line_endings
+- theme
+- color_scheme
+
+##Package
+- AutoFileName
+- Autoprefixer
+- Color Highlighter
+- ColorPicker
+- CSS3
+- DocBlockr
+- Emmet
+- Git
+- GitGutter
+- HTML-CSS-JS Prettify
+- JavaScriptNext - ES6 Syntax
+- LESS
+- Package Control
+- Seti_UI
+- Seti_UX
+- SublimeCodeIntel
+- SublimeLinter
+- Terminal
+
+##build
+- nodejs
