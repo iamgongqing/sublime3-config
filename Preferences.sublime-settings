@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/Seti_UX/Seti.tmTheme",
+	"default_line_ending": "unix",
+	"font_face": "source code pro",
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "Seti.sublime-theme"
+}

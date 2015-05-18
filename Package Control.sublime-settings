@@ -1,0 +1,26 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Autoprefixer",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS3",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"JavaScriptNext - ES6 Syntax",
+		"LESS",
+		"Package Control",
+		"Seti_UI",
+		"Seti_UX",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Terminal"
+	]
+}
