@@ -11,7 +11,7 @@
 - translate_tabs_to_spaces
 - draw_white_space
 
-##theme
+##Theme
 - theme: Seti.sublime-theme
 - color_scheme: Packages/Seti_UX/Seti.tmTheme
 
@@ -36,7 +36,7 @@
 - SublimeLinter
 - Terminal
 
-##build
+##Build System
 - nodejs
 
 ##license
