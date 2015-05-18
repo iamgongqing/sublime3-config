@@ -28,6 +28,7 @@
 - HTML-CSS-JS Prettify
 - JavaScriptNext - ES6 Syntax
 - LESS
+- Markdown Preview
 - Package Control
 - Seti_UI
 - Seti_UX
