@@ -1,5 +1,4 @@
-# frozen sublime3 configuration
-------
+# sublime3 configuration
 ##Preferences
 - font-face
 - font-size
@@ -7,8 +6,12 @@
 - default_line_ending
 - show_encoding
 - show_line_endings
-- theme
-- color_scheme
+- translate_tabs_to_spaces
+- draw_white_space
+
+##theme
+- theme: Seti.sublime-theme
+- color_scheme: Packages/Seti_UX/Seti.tmTheme
 
 ##Package
 - AutoFileName
@@ -32,3 +35,6 @@
 
 ##build
 - nodejs
+
+##license
+MIT
