@@ -1,4 +1,6 @@
 # sublime3 configuration
+##Usage
+[How to use this configuration](https://github.com/nice-body/sublime3-config/wiki/How-to-use-this-configuration)
 ##Preferences
 - font-face
 - font-size
