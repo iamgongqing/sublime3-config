@@ -1,0 +1,5 @@
+{
+    "shell_cmd": "lessc \"$file\" \"$file_path/$file_base_name.css\"",
+    "selector": "source.less",
+    "shell": true
+}
