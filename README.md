@@ -12,8 +12,8 @@
 - draw_white_space
 
 ##Theme
-- theme: Seti.sublime-theme
-- color_scheme: Packages/Seti_UX/Seti.tmTheme
+- theme: Material-Theme.sublime-theme
+- color_scheme: Packages/Material Theme/schemes/Material-Theme.tmTheme
 
 ##Package
 - AutoFileName
@@ -30,11 +30,10 @@
 - LESS
 - Markdown Preview
 - Package Control
-- Seti_UI
-- Seti_UX
+- Material Theme
+- Material Color Scheme
 - SublimeCodeIntel
 - SublimeLinter
-- Terminal
 
 ##Build System
 - nodejs
