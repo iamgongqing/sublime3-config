@@ -12,8 +12,8 @@
 - draw_white_space
 
 ##Theme
-- theme: Material-Theme.sublime-theme
-- color_scheme: Packages/Material Theme/schemes/Material-Theme.tmTheme
+- theme: Material-Theme
+- color_scheme: Material Color Scheme - material-dark
 
 ##Package
 - AutoFileName
