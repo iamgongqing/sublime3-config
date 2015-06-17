@@ -27,6 +27,7 @@
 - GitGutter
 - HTML-CSS-JS Prettify
 - JavaScriptNext - ES6 Syntax
+- jQuery
 - LESS
 - Markdown Preview
 - Package Control
