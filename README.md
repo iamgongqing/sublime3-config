@@ -21,6 +21,7 @@
 - Color Highlighter
 - ColorPicker
 - CSS3
+- CSScomb
 - DocBlockr
 - Emmet
 - Git
