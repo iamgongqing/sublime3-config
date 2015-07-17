@@ -36,6 +36,7 @@
 - Material Color Scheme
 - SublimeCodeIntel
 - SublimeLinter
+- Web Inspector
 
 ##Build System
 - nodejs
