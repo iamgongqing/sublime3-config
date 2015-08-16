@@ -24,6 +24,7 @@
 		"Material Color Scheme",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		“SublimeLinter-jshint”,
 		"SublimeREPL",
                 "Web Inspector"
 	]
