@@ -6,6 +6,7 @@
 	[
 		"AutoFileName",
 		"Autoprefixer",
+		"babel",
 		"Color Highlighter",
 		"ColorPicker",
 		"CSS3",
