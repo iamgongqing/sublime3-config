@@ -18,6 +18,7 @@
 ##Package
 - AutoFileName
 - Autoprefixer
+- Babel
 - Color Highlighter
 - ColorPicker
 - CSS3
