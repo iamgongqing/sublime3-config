@@ -26,7 +26,6 @@
 - DocBlockr
 - Emmet
 - Git
-- GitGutter
 - HTML-CSS-JS Prettify
 - JavaScriptNext - ES6 Syntax
 - jQuery
@@ -39,6 +38,7 @@
 - SublimeLinter
 - SublimeLinter-jshint
 - SublimeREPL
+- VCS Gutter
 
 ##Build System
 - nodejs
