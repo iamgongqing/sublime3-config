@@ -27,17 +27,13 @@
 - Emmet
 - Git
 - HTML-CSS-JS Prettify
-- JavaScriptNext - ES6 Syntax
 - jQuery
-- LESS
 - Markdown Preview
 - Package Control
 - Material Theme
 - Material Color Scheme
 - SublimeCodeIntel
 - SublimeLinter
-- SublimeLinter-jshint
-- SublimeREPL
 - VCS Gutter
 
 ##Build System
