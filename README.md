@@ -2,14 +2,13 @@
 ##Usage
 [How to use this configuration](https://github.com/nice-body/sublime3-config/wiki/How-to-use-this-configuration)
 ##Preferences
-- font-face
-- font-size
-- highlight_line
-- default_line_ending
-- show_encoding
-- show_line_endings
-- translate_tabs_to_spaces
-- draw_white_space
+- font-face: source code pro
+- font-size: 12
+- highlight_line: true
+- default_line_ending: unix
+- show_encoding: true
+- show_line_endings: true
+- translate_tabs_to_spaces: true
 
 ##Theme
 - theme: Material-Theme
