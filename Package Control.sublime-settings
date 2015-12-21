@@ -23,6 +23,8 @@
 		"Sass",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-csslint",
 		"VCS Gutter"
 	]
 }
