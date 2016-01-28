@@ -1,6 +1,7 @@
 {
 	"color_scheme": "Packages/Material Color Scheme/sublime/material-dark.tmTheme",
 	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
 	"font_face": "source code pro",
 	"font_size": 12,
 	"highlight_line": true,
