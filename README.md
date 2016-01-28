@@ -35,9 +35,5 @@
 - SublimeLinter
 - VCS Gutter
 
-##Build System
-- nodejs
-- less
-
 ##license
 MIT
