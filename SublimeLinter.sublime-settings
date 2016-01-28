@@ -7,10 +7,18 @@
         "gutter_theme_excludes": [],
         "lint_mode": "save only",
         "linters": {
-            "eslint": {
-                "@disable": true,
+            "csslint": {
+                "@disable": false,
                 "args": [],
-                "excludes": []
+                "errors": "",
+                "excludes": ["./node_modules"],
+                "ignore": "",
+                "warnings": ""
+            },
+            "eslint": {
+                "@disable": false,
+                "args": [],
+                "excludes": ["./node_modules"]
             }
         },
         "mark_style": "squiggly underline",
@@ -20,7 +28,7 @@
             "linux": [],
             "osx": [],
             "windows": [
-                "D:/Program Files/nodejs/node.exe"
+                "D://Program Files//nodejs"
             ]
         },
         "python_paths": {
