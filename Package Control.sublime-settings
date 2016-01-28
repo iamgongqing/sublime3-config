@@ -25,6 +25,7 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-csslint",
+		"tern_for_sublime",
 		"VCS Gutter"
 	]
 }
