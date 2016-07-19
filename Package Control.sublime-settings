@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -6,24 +7,19 @@
 	[
 		"AutoFileName",
 		"Babel",
+		"Boxy Theme",
+		"Boxy Theme Addon - Linter Theme",
 		"Color Highlighter",
 		"ColorPicker",
-		"CSS3",
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
-		"Git",
 		"HTML-CSS-JS Prettify",
-		"jQuery",
-		"Markdown Preview",
 		"Package Control",
-		"Material Theme",
-		"Material Color Scheme",
 		"Sass",
-		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
-		"SublimeLinter-csslint",
+		"SublimeLinter-contrib-stylelint",
 		"tern_for_sublime",
 		"VCS Gutter"
 	]
