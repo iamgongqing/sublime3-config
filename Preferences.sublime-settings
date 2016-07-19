@@ -1,5 +1,16 @@
 {
-	"color_scheme": "Packages/Material Color Scheme/sublime/material-dark.tmTheme",
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": ".",
+			"selector": "source.js"
+		}
+	],
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "source code pro",
@@ -11,8 +22,15 @@
 	],
 	"show_encoding": true,
 	"show_line_endings": true,
-	"theme": "Material-Theme.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"ensure_newline_at_eof_on_save": true
+	"theme": "Boxy Ocean.sublime-theme",
+	"theme_accent_green": true,
+	"theme_scrollbar_colored": true,
+	"theme_sidebar_folder_arrow": true,
+	"theme_sidebar_font_xl": true,
+	"theme_size_xs": true,
+	"theme_tab_font_md": true,
+	"theme_tab_selected_underlined": true,
+	"theme_tab_size_md": true,
+	"theme_tooltips_font_xs": true,
+	"translate_tabs_to_spaces": true
 }
