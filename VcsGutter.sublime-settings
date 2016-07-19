@@ -1,9 +1,3 @@
 {
-    "non_blocking": true,
-    "vcs_paths": {
-        "diff": "diff",
-        "git": "D:\\Program Files\\Git\\bin\\git.exe",
-        "hg": "hg",
-        "svn": "svn"
-    }
+    "non_blocking": true
 }
