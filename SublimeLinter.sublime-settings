@@ -3,22 +3,23 @@
         "debug": true,
         "delay": 0.25,
         "error_color": "D02000",
-        "gutter_theme": "Packages/SublimeLinter/gutter-themes/ProjectIcons/ProjectIcons.gutter-theme",
+        "gutter_theme": "Packages/Boxy Theme Addon - Linter Theme/Boxy.gutter-theme",
         "gutter_theme_excludes": [],
         "lint_mode": "save only",
         "linters": {
-            "csslint": {
-                "@disable": false,
-                "args": [],
-                "errors": "",
-                "excludes": ["./node_modules"],
-                "ignore": "",
-                "warnings": ""
-            },
             "eslint": {
                 "@disable": false,
                 "args": [],
-                "excludes": ["./node_modules"]
+                "excludes": [
+                    "./node_modules"
+                ]
+            },
+            "stylelint": {
+                "@disable": false,
+                "args": [],
+                "excludes": [
+                    "./node_modules"
+                ]
             }
         },
         "mark_style": "squiggly underline",
